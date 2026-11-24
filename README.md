@@ -13,7 +13,7 @@
 
 I build the supply side of marketplaces — the systems that turn a cold lead into an active, retained partner.
 
-For 5+ years I've worked where **operations, data and product** meet: at Glovo, at inDrive across EMEA, and now as Head of Driver Supply for an EV ride-hailing launch, where I built the acquisition function from zero — funnel, tracking, channels and team.
+For 5+ years I've worked where **operations, data and product** meet: at Glovo, at inDrive across EMEA, and now as Head of Driver Supply at **Green SM**, an EV ride-hailing service launching in Almaty, where I built the driver acquisition function from zero — funnel, tracking, channels and team.
 
 I like problems that start messy — no tracking, no process, no team — and end with a funnel you can read, measure and improve every week. Lately I've also been building products of my own end to end, from the first screen to payments and unit economics.
 
@@ -28,8 +28,10 @@ I like problems that start messy — no tracking, no process, no team — and en
 2023 ─ inDrive ───────────── Supervisor → Supply Growth Senior Lead, EMEA
        3 verticals (courier, intercity, cargo) · activation +25% · active drivers +35% YoY
 
-2026 ─ EV ride-hailing ───── Head of Driver Supply
-       driver acquisition built from scratch for a city launch: funnel, analytics, channels, team
+2026 ─ Green SM ──────────── Head of Driver Supply  (current)
+       EV ride-hailing launch in Almaty · driver acquisition built from scratch:
+       end-to-end funnel from lead to car handover · tracking & dashboards ·
+       Meta / TikTok / referral / agency channels · in-house agents + call-center partners
 
 2026 ─ Zimran IT School ──── first cohort (~3% acceptance) · built Speakline as capstone
 ```
@@ -51,7 +53,7 @@ I like problems that start messy — no tracking, no process, no team — and en
 | **+35% YoY** | active driver base growth via agency partnerships (inDrive) |
 | **+20%** | active supply after launching acquisition in three verticals (inDrive) |
 | **−15%** | operational costs through onboarding optimisation (Glovo) |
-| **0 → 1** | full driver acquisition function for an EV ride-hailing launch |
+| **0 → 1** | full driver acquisition function for Green SM's EV ride-hailing launch |
 
 ## ⭐ Featured project: Speakline
 
