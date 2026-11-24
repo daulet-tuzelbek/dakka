@@ -38,30 +38,35 @@ I like problems that start messy — no tracking, no process, no team — and en
 
 ## 🚀 What I do
 
+Experience across **Glovo**, **inDrive (EMEA, multiple markets)** and **Green SM**, grouped by function:
+
 **🧩 Product**
-- Own the user journey end to end: onboarding, activation, paywall, retention
-- Turn funnel drop-offs into product changes and test them (onboarding redesign: +25% activation)
-- Built a product from zero to payments: web2app funnel, pricing, checkout, in-app experience ([Speakline](https://github.com/daulet-tuzelbek/Speakline))
+- Designed and optimised acquisition and retention funnels for three verticals: courier, intercity, cargo — *inDrive, EMEA*
+- Redesigned driver onboarding with product, marketing and ops teams: **+25%** registration-to-activation — *inDrive, EMEA*
+- Designed the end-to-end driver journey from first lead to car handover for a new service — *Green SM*
+- Built a product from zero to payments: web2app funnel, pricing, checkout, in-app experience — *[Speakline](https://github.com/daulet-tuzelbek/Speakline)*
 
 **📣 User acquisition**
-- Multi-channel acquisition: paid social (Meta, TikTok), referral programs, agencies and partners, offline
-- Budget-from-leads media planning with hard cost-per-acquisition caps
-- Creative strategy built from user pain points, not features; channel mix decided by unit economics (CAC, LTV, payback)
+- Regional courier acquisition strategies to scale supply in new markets — *Glovo*
+- Agency partnerships across multiple markets: **+35% YoY** active driver base — *inDrive, EMEA*
+- A/B tests on acquisition funnels to lift conversion and lower acquisition cost — *inDrive*
+- Multi-channel acquisition (Meta, TikTok, referral, agencies) on a budget-from-leads model with hard cost-per-driver caps; multi-tier referral program — *Green SM*
 
 **🏗 Setup from scratch**
-- Launching new functions, verticals and markets: from an empty sheet to a working machine
-- Funnel architecture, stage definitions, owners and KPIs
-- Processes, scripts, tooling and vendor relationships ready before the first lead arrives
+- Scaled courier supply in new markets — *Glovo*
+- Launched driver acquisition in three verticals: **+20%** active supply — *inDrive*
+- Built the entire driver acquisition function for an EV ride-hailing launch: funnel, processes, channels, tooling, team and vendors — *Green SM*
 
 **⚙️ Operations**
-- Lead in-house agent teams, external agencies and outsourced call centers through clear targets and daily reporting
-- Onboarding and process optimisation (−15% operational costs)
-- Automate the boring parts: scripts and lightweight tools that remove manual work
+- Onboarding process optimisation: **−15%** operational costs — *Glovo*
+- Managed a regional team of **10+ agents** across multiple markets; ran KPI monitoring and operational reviews — *inDrive, EMEA*
+- Lead in-house agents, external recruitment agencies and outsourced call centers through daily targets and reporting; driver market research shaping income and onboarding policy — *Green SM*
 
 **📊 Analytics**
-- SQL, BigQuery, Looker, Tableau, Amplitude; dashboards and automated reporting teams actually use
-- Funnel and cohort analysis, A/B testing with sample size, primary metric and guardrails fixed upfront
-- Metric trees and unit-economics models that turn data into *do / don't do / test further*
+- Analysed CPO, retention and order frequency to close performance gaps — *Glovo*
+- Streamlined cross-department KPI tracking; continuous funnel monitoring for data-informed decisions — *inDrive*
+- Built tracking infrastructure from scratch: master tracker, automated funnel dashboard, referral payout and exposure modelling — *Green SM*
+- Toolset: SQL · BigQuery · Looker · Tableau · Amplitude · Apps Script; A/B testing, cohort analysis, metric trees, unit economics
 
 ## 📈 Selected results
 
