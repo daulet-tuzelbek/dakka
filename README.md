@@ -38,12 +38,30 @@ I like problems that start messy — no tracking, no process, no team — and en
 
 ## 🚀 What I do
 
-- **Build acquisition functions from scratch** — funnel architecture from lead to activated partner, stage definitions, owners and KPIs
-- **Design and run growth experiments** — A/B tests on onboarding and activation, with sample size, primary metric and guardrails fixed upfront
-- **Turn operations into data** — tracking infrastructure, dashboards and automated reporting that teams actually use
-- **Run multi-channel acquisition** — paid social (Meta, TikTok), referral programs, agency and partner channels, budgeted against cost-per-acquisition caps
-- **Lead teams and partners** — in-house agent teams, external agencies and outsourced call centers, managed through clear targets and daily reporting
-- **Automate the boring parts** — scripts and lightweight tools that remove manual work from operations
+**🧩 Product**
+- Own the user journey end to end: onboarding, activation, paywall, retention
+- Turn funnel drop-offs into product changes and test them (onboarding redesign: +25% activation)
+- Built a product from zero to payments: web2app funnel, pricing, checkout, in-app experience ([Speakline](https://github.com/daulet-tuzelbek/Speakline))
+
+**📣 User acquisition**
+- Multi-channel acquisition: paid social (Meta, TikTok), referral programs, agencies and partners, offline
+- Budget-from-leads media planning with hard cost-per-acquisition caps
+- Creative strategy built from user pain points, not features; channel mix decided by unit economics (CAC, LTV, payback)
+
+**🏗 Setup from scratch**
+- Launching new functions, verticals and markets: from an empty sheet to a working machine
+- Funnel architecture, stage definitions, owners and KPIs
+- Processes, scripts, tooling and vendor relationships ready before the first lead arrives
+
+**⚙️ Operations**
+- Lead in-house agent teams, external agencies and outsourced call centers through clear targets and daily reporting
+- Onboarding and process optimisation (−15% operational costs)
+- Automate the boring parts: scripts and lightweight tools that remove manual work
+
+**📊 Analytics**
+- SQL, BigQuery, Looker, Tableau, Amplitude; dashboards and automated reporting teams actually use
+- Funnel and cohort analysis, A/B testing with sample size, primary metric and guardrails fixed upfront
+- Metric trees and unit-economics models that turn data into *do / don't do / test further*
 
 ## 📈 Selected results
 
