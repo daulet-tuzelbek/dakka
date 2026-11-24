@@ -29,7 +29,8 @@ I like problems that start messy — no tracking, no process, no team — and en
        3 verticals (courier, intercity, cargo) · activation +25% · active drivers +35% YoY
 
 2026 ─ Green SM ──────────── Head of Driver Supply  (current)
-       EV ride-hailing launch in Almaty · driver acquisition built from scratch:
+       EV ride-hailing launch in Almaty · driver supply grown from 0 to 1,500 active drivers
+       driver acquisition built from scratch:
        end-to-end funnel from lead to car handover · tracking & dashboards ·
        Meta / TikTok / referral / agency channels · in-house agents + call-center partners
 
@@ -55,7 +56,7 @@ Experience across **Glovo**, **inDrive (EMEA, multiple markets)** and **Green SM
 **🏗 Setup from scratch**
 - Scaled courier supply in new markets — *Glovo*
 - Launched driver acquisition in three verticals: **+20%** active supply — *inDrive*
-- Built the entire driver acquisition function for an EV ride-hailing launch: funnel, processes, channels, tooling, team and vendors — *Green SM*
+- Built the entire driver acquisition function for an EV ride-hailing launch and grew supply from **0 to 1,500 active drivers**: funnel, processes, channels, tooling, team and vendors — *Green SM*
 
 **⚙️ Operations**
 - Onboarding process optimisation: **−15%** operational costs — *Glovo*
@@ -76,7 +77,7 @@ Experience across **Glovo**, **inDrive (EMEA, multiple markets)** and **Green SM
 | **+35% YoY** | active driver base growth via agency partnerships (inDrive) |
 | **+20%** | active supply after launching acquisition in three verticals (inDrive) |
 | **−15%** | operational costs through onboarding optimisation (Glovo) |
-| **0 → 1** | full driver acquisition function for Green SM's EV ride-hailing launch |
+| **0 → 1,500** | active drivers for Green SM's EV ride-hailing launch, with the acquisition function built from scratch |
 
 ## ⭐ Featured project: Speakline
 
